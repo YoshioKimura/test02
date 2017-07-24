@@ -1,3 +1,14 @@
 h1{
   color:red;
 }
+
+
+.mainvisual{
+  width: 100%;
+  height: 400px;
+  background-image: url('firstview.png');
+}
+
+.info{
+  font-size: 50px;
+}
